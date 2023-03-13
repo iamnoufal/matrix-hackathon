@@ -1,0 +1,49 @@
+@font-face {
+  font-family: lora;
+  src: url('assets/fonts/Lora-Italic-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: grandhotel;
+  src: url('assets/fonts/GrandHotel-Regular.ttf');
+}
+
+.bg-lightblue {
+  background-color: #AEE8E2 !important;
+}
+
+.bg-darkblue {
+  background-color: #018891 !important;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.text-lightblue {
+  color: #AEE8E2 !important;
+}
+
+.text-darkblue {
+  color: #018891 !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.grandhotel {
+  font-family: grandhotel !important;
+}
+
+.lora {
+  font-family: lora !important;
+}
+
+.projectsCarousel .swiper-pagination-bullet {
+  background-color: #AEE8E2;
+}
+
+.projectsCarousel .swiper-pagination-bullet-active {
+  background-color: #018891;
+}
